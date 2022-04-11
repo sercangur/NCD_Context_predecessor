@@ -1,5 +1,5 @@
 # `near-sdk-as` Starter Kit
-
+patika.dev
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
@@ -21,7 +21,7 @@ There are 2 AssemblyScript contracts in this project, each in their own folder:
 We say that an AssemblyScript contract is written in the "simple style" when the `index.ts` file (the contract entry point) includes a series of exported functions.
 
 In this case, all exported functions become public contract methods.
-
+ 
 ```ts
 // return the string 'hello world'
 export function helloWorld(): string {}
